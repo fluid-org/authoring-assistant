@@ -109,6 +109,236 @@ INFO: Generating website/authoring-assistant/scigen-manual/1904.12550v1-5/index.
 INFO: [Run 1 of 1][Test case 3 of 28] 0 of 3 responses correct
 INFO: [Problem 1 of 1][Attempt 1] Received "dummy"
 INFO: [Problem 1 of 1][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "1.0". Try again.
+INFO: [Problem 1 of 1][Attempt 2] Received "dummy"
+INFO: [Problem 1 of 1][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "1.0". Try again.
+INFO: [Problem 1 of 1] Expression generation failed after 2 attempts
+INFO: Generating website/authoring-assistant/scigen-manual/1003.0206-7624/index.html
+INFO: [Run 1 of 1][Test case 1 of 28] 0 of 1 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/1911.04123v2-116/index.html
+INFO: [Run 1 of 1][Test case 2 of 28] 0 of 0 responses correct
+INFO: [Problem 1 of 3][Attempt 1] Received "dummy"
+INFO: [Problem 1 of 3][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "33.5". Try again.
+INFO: [Problem 1 of 3][Attempt 2] Received "dummy"
+INFO: [Problem 1 of 3][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "33.5". Try again.
+INFO: [Problem 1 of 3] Expression generation failed after 2 attempts
+INFO: [Problem 2 of 3][Attempt 1] Received "dummy"
+INFO: [Problem 2 of 3][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "31.599999999999994". Try again.
+INFO: [Problem 2 of 3][Attempt 2] Received "dummy"
+INFO: [Problem 2 of 3][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "31.599999999999994". Try again.
+INFO: [Problem 2 of 3] Expression generation failed after 2 attempts
+INFO: [Problem 3 of 3][Attempt 1] Received "dummy"
+INFO: [Problem 3 of 3][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "31.599999999999994". Try again.
+INFO: [Problem 3 of 3][Attempt 2] Received "dummy"
+INFO: [Problem 3 of 3][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "31.599999999999994". Try again.
+INFO: [Problem 3 of 3] Expression generation failed after 2 attempts
+INFO: Generating website/authoring-assistant/scigen-manual/1905.05979v2-88/index.html
+INFO: [Run 1 of 1][Test case 3 of 28] 0 of 3 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/2003.03716v1-324/index.html
+INFO: [Run 1 of 1][Test case 4 of 28] 0 of 0 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/1810.04864v1-16/index.html
+INFO: [Run 1 of 1][Test case 5 of 28] 0 of 0 responses correct
+INFO: [Problem 1 of 1][Attempt 1] Received "dummy"
+INFO: [Problem 1 of 1][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "mle". Try again.
+INFO: [Problem 1 of 1][Attempt 2] Received "dummy"
+INFO: [Problem 1 of 1][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "mle". Try again.
+INFO: [Problem 1 of 1] Expression generation failed after 2 attempts
+INFO: Generating website/authoring-assistant/scigen-manual/1002.0773-8586/index.html
+INFO: [Run 1 of 1][Test case 6 of 28] 0 of 1 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/1810.04864v1-15/index.html
+INFO: [Run 1 of 1][Test case 7 of 28] 0 of 0 responses correct
+INFO: [Problem 1 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 1 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "outperformed". Try again.
+INFO: [Problem 1 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 1 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "outperformed". Try again.
+INFO: [Problem 1 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 2 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 2 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "better". Try again.
+INFO: [Problem 2 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 2 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "better". Try again.
+INFO: [Problem 2 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 3 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 3 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "better". Try again.
+INFO: [Problem 3 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 3 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "better". Try again.
+INFO: [Problem 3 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 4 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 4 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "82". Try again.
+INFO: [Problem 4 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 4 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "82". Try again.
+INFO: [Problem 4 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 5 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 5 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "93.8". Try again.
+INFO: [Problem 5 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 5 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "93.8". Try again.
+INFO: [Problem 5 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 6 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 6 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "83.3". Try again.
+INFO: [Problem 6 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 6 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "83.3". Try again.
+INFO: [Problem 6 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 7 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 7 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "99". Try again.
+INFO: [Problem 7 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 7 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "99". Try again.
+INFO: [Problem 7 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 8 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 8 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "58.3". Try again.
+INFO: [Problem 8 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 8 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "58.3". Try again.
+INFO: [Problem 8 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 9 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 9 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "96.2". Try again.
+INFO: [Problem 9 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 9 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "96.2". Try again.
+INFO: [Problem 9 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 10 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 10 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "74.7". Try again.
+INFO: [Problem 10 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 10 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "74.7". Try again.
+INFO: [Problem 10 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 11 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 11 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "90.3". Try again.
+INFO: [Problem 11 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 11 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "90.3". Try again.
+INFO: [Problem 11 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 12 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 12 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "a reduced". Try again.
+INFO: [Problem 12 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 12 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "a reduced". Try again.
+INFO: [Problem 12 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 13 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 13 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "better". Try again.
+INFO: [Problem 13 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 13 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "better". Try again.
+INFO: [Problem 13 of 14] Expression generation failed after 2 attempts
+INFO: [Problem 14 of 14][Attempt 1] Received "dummy"
+INFO: [Problem 14 of 14][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "unusually low". Try again.
+INFO: [Problem 14 of 14][Attempt 2] Received "dummy"
+INFO: [Problem 14 of 14][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "unusually low". Try again.
+INFO: [Problem 14 of 14] Expression generation failed after 2 attempts
+INFO: Generating website/authoring-assistant/scigen-manual/1110.3094-5931/index.html
+INFO: [Run 1 of 1][Test case 8 of 28] 0 of 14 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/2003.02736v1-273/index.html
+INFO: [Run 1 of 1][Test case 9 of 28] 0 of 0 responses correct
+INFO: [Problem 1 of 6][Attempt 1] Received "dummy"
+INFO: [Problem 1 of 6][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "0.5199999999999996". Try again.
+INFO: [Problem 1 of 6][Attempt 2] Received "dummy"
+INFO: [Problem 1 of 6][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "0.5199999999999996". Try again.
+INFO: [Problem 1 of 6] Expression generation failed after 2 attempts
+INFO: [Problem 2 of 6][Attempt 1] Received "dummy"
+INFO: [Problem 2 of 6][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "3.8". Try again.
+INFO: [Problem 2 of 6][Attempt 2] Received "dummy"
+INFO: [Problem 2 of 6][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "3.8". Try again.
+INFO: [Problem 2 of 6] Expression generation failed after 2 attempts
+INFO: [Problem 3 of 6][Attempt 1] Received "dummy"
+INFO: [Problem 3 of 6][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "1.4". Try again.
+INFO: [Problem 3 of 6][Attempt 2] Received "dummy"
+INFO: [Problem 3 of 6][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "1.4". Try again.
+INFO: [Problem 3 of 6] Expression generation failed after 2 attempts
+INFO: [Problem 4 of 6][Attempt 1] Received "dummy"
+INFO: [Problem 4 of 6][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "1.4899999999999984". Try again.
+INFO: [Problem 4 of 6][Attempt 2] Received "dummy"
+INFO: [Problem 4 of 6][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "1.4899999999999984". Try again.
+INFO: [Problem 4 of 6] Expression generation failed after 2 attempts
+INFO: [Problem 5 of 6][Attempt 1] Received "dummy"
+INFO: [Problem 5 of 6][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "3.8". Try again.
+INFO: [Problem 5 of 6][Attempt 2] Received "dummy"
+INFO: [Problem 5 of 6][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "3.8". Try again.
+INFO: [Problem 5 of 6] Expression generation failed after 2 attempts
+INFO: [Problem 6 of 6][Attempt 1] Received "dummy"
+INFO: [Problem 6 of 6][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "3.1". Try again.
+INFO: [Problem 6 of 6][Attempt 2] Received "dummy"
+INFO: [Problem 6 of 6][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "3.1". Try again.
+INFO: [Problem 6 of 6] Expression generation failed after 2 attempts
+INFO: Generating website/authoring-assistant/scigen-manual/1906.02780v1-17/index.html
+INFO: [Run 1 of 1][Test case 10 of 28] 0 of 6 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/1905.08205v2-48/index.html
+INFO: [Run 1 of 1][Test case 11 of 28] 0 of 0 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/10-460/index.html
+INFO: [Run 1 of 1][Test case 12 of 28] 0 of 0 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/2002.00652v2-408/index.html
+INFO: [Run 1 of 1][Test case 13 of 28] 0 of 0 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/1906.05218v1-251/index.html
+INFO: [Run 1 of 1][Test case 14 of 28] 0 of 0 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/1905.13126v1-178/index.html
+INFO: [Run 1 of 1][Test case 15 of 28] 0 of 0 responses correct
+INFO: Generating website/authoring-assistant/scigen-manual/1812.00381v2-448/index.html
+INFO: [Run 1 of 1][Test case 16 of 28] 0 of 0 responses correct
+INFO: [Problem 1 of 3][Attempt 1] Received "dummy"
+INFO: [Problem 1 of 3][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "0.953". Try again.
+INFO: [Problem 1 of 3][Attempt 2] Received "dummy"
+INFO: [Problem 1 of 3][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "0.953". Try again.
+INFO: [Problem 1 of 3] Expression generation failed after 2 attempts
+INFO: [Problem 2 of 3][Attempt 1] Received "dummy"
+INFO: [Problem 2 of 3][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "0.843". Try again.
+INFO: [Problem 2 of 3][Attempt 2] Received "dummy"
+INFO: [Problem 2 of 3][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "0.843". Try again.
+INFO: [Problem 2 of 3] Expression generation failed after 2 attempts
+INFO: [Problem 3 of 3][Attempt 1] Received "dummy"
+INFO: [Problem 3 of 3][Attempt 1] Sent:
+That expression evaluates to "dummy", rather than "0.914". Try again.
+INFO: [Problem 3 of 3][Attempt 2] Received "dummy"
+INFO: [Problem 3 of 3][Attempt 2] Aborted with:
+That expression evaluates to "dummy", rather than "0.914". Try again.
+INFO: [Problem 3 of 3] Expression generation failed after 2 attempts
+INFO: Generating website/authoring-assistant/scigen-manual/1904.12550v1-5/index.html
+INFO: [Run 1 of 1][Test case 17 of 28] 0 of 3 responses correct
+INFO: [Problem 1 of 1][Attempt 1] Received "dummy"
+INFO: [Problem 1 of 1][Attempt 1] Sent:
 That expression evaluates to "dummy", rather than "0.926". Try again.
 INFO: [Problem 1 of 1][Attempt 2] Received "dummy"
 INFO: [Problem 1 of 1][Attempt 2] Aborted with:

@@ -219,7 +219,7 @@ def process_csv_file(csv_file):
     print()
     
     sns.set_style("whitegrid")
-    generate_aggregated_boxplot(df, plt, fig_dir)
+    generate_aggregated_plot(df, plt, fig_dir)
     generate_success_rate_by_category_count(df, plt, fig_dir)
     
     print(f"Charts saved in {fig_dir}")
