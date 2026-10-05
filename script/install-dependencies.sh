@@ -36,7 +36,6 @@ install_dependencies() {
 
         brew update
         brew install maven
-        brew install python3
 
 
         # Verify installation
